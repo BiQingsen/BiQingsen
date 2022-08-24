@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SamBee
-- 👀 I’m interested in Coding and learning more and more interesting things.
-- 🌱 I’m currently learning Philosophy such as Plato and Aristotle, researching the stm32 how to maked in the project.
+- 👋 Hi, I’m @BiQingsen
+- 👀 I want to learn more and more things.
+- 🌱 I’m currently learning Web.
 - 💞️ I’m not looking to collaborate now.
 - 📫 You can send a email to sirbiqingsen@gmail.com.
 
